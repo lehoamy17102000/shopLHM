@@ -1,4 +1,4 @@
-package com.erictimami.gooddeal;
+package com.lhm.shoplhm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
